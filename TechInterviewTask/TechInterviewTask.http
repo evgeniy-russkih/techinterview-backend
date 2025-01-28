@@ -1,0 +1,6 @@
+@TechInterviewTask_HostAddress = http://localhost:5137
+
+GET {{TechInterviewTask_HostAddress}}/api/Weather/GetWeatherForecast/
+Accept: application/json
+
+###
